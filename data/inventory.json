@@ -1,10 +1,10 @@
 {
-    "Mine": {
-        "quantity": 5,
-        "price": 2.0
-    },
     "Souris": {
         "quantity": 10,
         "price": 13.0
+    },
+    "Marteau": {
+        "quantity": 5,
+        "price": 5.99
     }
 }

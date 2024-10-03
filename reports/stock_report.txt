@@ -1,1 +1,1 @@
-Produit : Mine, Stock actuel : 5, Prix : 2.0
+Produit : Marteau, Stock actuel : 5, Prix : 5.99
