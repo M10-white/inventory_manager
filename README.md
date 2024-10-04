@@ -39,7 +39,7 @@ Gérez votre inventaire à partir de l'interface.
 
 ## Roadmap
 
-![Roadmap du projet](roadmap.svg)
+![Roadmap du projet](roadmap.png)
 
 ## Auteurs
 Chaouki Brahim - M10_white
