@@ -37,5 +37,26 @@ py inventory_manager.py
 Connectez-vous avec vos identifiants d'administrateur ou d'employé.
 Gérez votre inventaire à partir de l'interface.
 
+## Roadmap
+
+```gantt
+    title Roadmap du Projet de Gestion d'Inventaire (30/09/2024 - 04/10/2024)
+    dateFormat  YYYY-MM-DD
+    section Planning & Design
+    Conception du projet              :a1, 2024-09-30, 1d
+    Définition des besoins            :a2, 2024-09-30, 1d
+
+    section Développement
+    Implémentation de la structure de base :a3, 2024-10-01, 1d
+    Création de l'interface de connexion   :a4, 2024-10-01, 0.5d
+    Gestion des utilisateurs               :a5, 2024-10-01, 0.5d
+    Développement des interfaces (Admin/Employé) :a6, 2024-10-02, 1d
+
+    section Finalisation & Tests
+    Ajout des fonctionnalités supplémentaires (stock faible) :a7, 2024-10-03, 1d
+    Correction des bugs et tests               :a8, 2024-10-04, 1d
+    Présentation finale                        :a9, 2024-10-04, 0.5d
+```
+
 ## Auteurs
 Chaouki Brahim - M10_white
