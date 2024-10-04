@@ -16,8 +16,7 @@ Voici l'arborescence des fichiers du projet :
 gestion_inventaire/
 ├── gui/
 │   ├── admin_interface.py     # Interface pour les administrateurs
-│   ├── employee_interface.py   # Interface pour les employés
-│   └── login_interface.py      # Interface de connexion
+│   └── employee_interface.py   # Interface pour les employés
 ├── data/
 │   ├── users.json             # Fichier JSON contenant les utilisateurs
 │   └── inventory.json         # Fichier JSON contenant l'inventaire
