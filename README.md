@@ -39,7 +39,7 @@ Gérez votre inventaire à partir de l'interface.
 
 ## Roadmap
 
-```gantt
+```mmd
     title Roadmap du Projet de Gestion d'Inventaire (30/09/2024 - 04/10/2024)
     dateFormat  YYYY-MM-DD
     section Planning & Design
